@@ -5,6 +5,6 @@
 03 Nom: Thomas Desproges
 03 github: ThomasDesproges
 04 Nom: David Bretaud
-04 github:
+04 github: david-bretaud
 05 Nom: Louis Delmas
 05 github: LouisDlms
